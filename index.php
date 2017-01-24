@@ -7,7 +7,8 @@
     </head>
     <body>
         <?php
-            echo "Hello World!!!";
+            echo "Hello World!!!<br/><br/>";
+            echo "Dia: ".date("d F \de Y");
         ?>
     </body>
 </html>
